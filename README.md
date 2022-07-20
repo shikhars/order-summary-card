@@ -17,8 +17,8 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 ### Links
 
-- Solution URL: https://github.com/shikhars/qr-code
-- Live Site URL: https://shikhars.github.io/qr-code/
+- Solution URL: https://github.com/shikhars/order-summary-card
+- Live Site URL: https://shikhars.github.io/order-summary-card/
 
 ## My process
 
